@@ -1,0 +1,10 @@
+# Dependencias do Projeto Markowitz Pro
+numpy
+pandas
+yfinance
+matplotlib
+PyPortfolioOpt
+scikit-learn
+xlsxwriter
+openpyxl
+fpdf

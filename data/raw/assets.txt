@@ -1,0 +1,11 @@
+Ticker,Name,Type,Theoretical Qty,Weight (%)
+ROKU,Roku Inc.,Common Stock,1000,10.0
+DOCU,DocuSign Inc.,Common Stock,1000,10.0
+SNAP,Snap Inc.,Common Stock,1000,10.0
+ETSY,Etsy Inc.,Common Stock,1000,10.0
+TWLO,Twilio Inc.,Common Stock,1000,10.0
+NET,Cloudflare Inc.,Common Stock,1000,10.0
+PINS,Pinterest Inc.,Common Stock,1000,10.0
+UBER,Uber Technologies Inc.,Common Stock,1000,10.0
+PYPL,PayPal Holdings Inc.,Common Stock,1000,10.0
+COIN,Coinbase Global Inc.,Common Stock,1000,10.0
